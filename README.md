@@ -1,31 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
+### 🌱 I am a software developer passionate about data science and machine learning from Colombia
 
-**vandeldiegoc/vandeldiegoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :dart: I’m Software developer focused on the area of backend
+- :books: I am currently learning Data Science and Machine Learning
+- 📫 How to reach me: vandeldiegoc@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+<br />
 ## Github Stats  
+
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandeldiegoc&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=vandeldiegoc&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td>
+<img src="https://github-readme-stats.vercel.app/api?username=vandeldiegoc&show_icons=true&count_private=true&hide_border=true" />
 </td></tr></table>  
 <br />
+<br />
   
-## Github Stats  
+## Languages and Tools 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -41,3 +35,5 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 </div>
 <br />
+
+
