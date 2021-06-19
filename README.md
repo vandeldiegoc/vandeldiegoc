@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-</td><td valign="top" width="33%">
+## Github Stats  
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=vandeldiegoc&show_icons=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="77%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandeldiegoc&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
 
+
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=vandeldiegoc&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<br />
+  
+## Github Stats  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
