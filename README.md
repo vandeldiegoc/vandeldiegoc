@@ -7,7 +7,8 @@
 - 📫 How to reach me: vandeldiegoc@gmail.com
 
 <br />
-## Github Stats  
+
+ ### Github Stats
 
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandeldiegoc&hide_border=true&layout=compact" align="left" style="width: 100%" />
@@ -16,7 +17,6 @@
 </td><td>
 <img src="https://github-readme-stats.vercel.app/api?username=vandeldiegoc&show_icons=true&count_private=true&hide_border=true" />
 </td></tr></table>  
-<br />
 <br />
   
 ## Languages and Tools 
